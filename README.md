@@ -6,4 +6,4 @@ This is unimpressive these days but back then I was in awe.
 
 #Demo
 
-You can see this in action [here](http://surdu.github.io/zx-text-drop/)
+You can see this in action [here](http://surdu.github.io/zx-drop/)
